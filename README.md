@@ -10,7 +10,7 @@ TailwindCSS – Utility-first styling
 Responsive Design – Mobile-friendly layout
 
 🚀 Live Demo
-Check out the live version here: https://lnkd.in/dn3u3Sse
+Check out the live version here: https://dashboard-next15.netlify.app/
 
 📂 GitHub Repo
-Explore the source code here: https://lnkd.in/d5e5XR-Y
+Explore the source code here: https://github.com/yashchhatrala25/Dashboard_Nextjs/
