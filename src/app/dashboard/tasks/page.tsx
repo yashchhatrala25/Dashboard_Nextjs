@@ -55,7 +55,7 @@ const Tasks = () => {
                 </p>
               </div>
 
-              <section className="flex space-x-4">
+              <section className="flex flex-col space-x-4 sm:flex-row space-y-4">
                 <span
                   className={`px-4 py-3 text-center text-sm rounded-full ${
                     task.status === "Completed"
