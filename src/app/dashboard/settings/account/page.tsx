@@ -65,7 +65,7 @@ const AccountSettings = () => {
           </div>
         </div>
 
-        {/* Action Settings */}
+        {/* Action Section */}
         <div className="flex justify-end space-x-4">
           <button className="px-6 py-2 text-gray-700 bg-gray-100 rounded-lg hover:bg-gray-200 transition-colors">
             Canael

@@ -59,7 +59,7 @@ const DashBoard = () => {
             </div>
 
             <p className="text-gray-700 mt-2">
-              View ans manage your user base.
+              Customize and tweak your dashboard settings.
             </p>
           </Link>
 
@@ -69,12 +69,12 @@ const DashBoard = () => {
             href="dashboard/users"
           >
             <div className="flex items-center justify-between">
-              <h2 className="text-xl font-semibold text-blue-800">Settings</h2>
+              <h2 className="text-xl font-semibold text-blue-800">Profile</h2>
               <span className="text-blue-500 text-2xl">👥</span>
             </div>
 
             <p className="text-gray-700 mt-2">
-              Customize and tweak your dashboard settings.
+              View ans manage your user base.
             </p>
           </Link>
         </div>

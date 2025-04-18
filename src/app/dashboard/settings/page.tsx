@@ -4,7 +4,7 @@ import React from "react";
 const Settings = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-50 via-indigo-100 to-purple-200 p-10">
-      <div className="max-w7xl mx-auto bg-white rounded-lg shadow-2xl p-8">
+      <div className="max-w-7xl mx-auto bg-white rounded-lg shadow-2xl p-8">
         <h1 className="text-4xl font-extrabold text-gray-900 mb-6">Settings</h1>
         <p className="text-lg text-gray-700 mb-8 max-w-2xl">
           Customize your account settings, Profile, and Notifications here.

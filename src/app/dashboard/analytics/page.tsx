@@ -69,14 +69,14 @@ const Analytics = () => {
             Website Traffic
           </h2>
 
-          <div className="bg-gray-100 rounded-lg h-72">Charts Placeholder</div>
+          <div className="bg-gray-100 rounded-lg h-72 flex justify-center items-center">Charts Placeholder</div>
         </div>
         <div className="mb-8">
           <h2 className="text-xl font-bold text-gray-700 mb-4">
             Website Traffic
           </h2>
 
-          <div className="bg-gray-100 rounded-lg h-72">Charts Placeholder</div>
+          <div className="bg-gray-100 rounded-lg h-72 flex justify-center items-center">Charts Placeholder</div>
         </div>
 
         {/* Recent Activities */}
